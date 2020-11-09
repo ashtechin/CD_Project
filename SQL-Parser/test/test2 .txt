@@ -1,0 +1,5 @@
+select col1, col2 from tab1 where name = francesco
+select col1, col2 tab1 where name = francesco
+select col1, col2 from tab1 name > 3948
+select col1, col2 from tab1 where name > 1jk
+select name, surname, gender, fiscalcode from taxes, family where age > 18

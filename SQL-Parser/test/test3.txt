@@ -1,0 +1,4 @@
+select c1, c2 from tab1 where name = tsadfmnl
+select col1, col2 tab1 where name = francesco
+select * from tableZ where c1 > 9000
+select name, surname, gender, fiscalcode from taxes, family where age > 18
